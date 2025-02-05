@@ -2,9 +2,6 @@ import streamlit as st
 from streamlit_cropperjs import st_cropperjs
 from PIL import Image, ImageDraw, ImageFont
 import io
-import numpy as np
-import cv2
-import io
 import os
 
 from wantedposter.wantedposter import (
