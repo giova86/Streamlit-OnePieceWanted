@@ -1,0 +1,8 @@
+[theme]
+base="light"
+
+[server]
+maxUploadSize = 20
+enableStaticServing = true
+enableXsrfProtection=false
+#enableCORS = false
